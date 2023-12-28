@@ -5,6 +5,7 @@ The project is a beginner-friendly exploration of machine learning concepts and 
 application in a real-world scenario. It provides a foundation for understanding how voicebased systems can be trained to recognize certain patterns. 
 
 **METHODOLOGY **
+
 Data Collection: Audio files of male and female voices are collected from various online 
 platforms and general survey among colleagues in .wav format. 
 Feature Extraction: Librosa library is used to extract acoustic features using MFCC (MelFrequency Ceptral Coefficients) of each audio files. 
